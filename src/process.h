@@ -28,6 +28,7 @@
 
 #pragma once
 
+
 #define PH_LARGE_BUFFER_SIZE			(256 * 1024 * 1024)
 
 #define STATUS_SUCCESS					((NTSTATUS)0x00000000L)
